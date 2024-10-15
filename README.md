@@ -1,5 +1,5 @@
-# SocketProgramming
-basic Server to client connection
+# SocketProgramming Calculator
+basic Server to client connection. Is able to solve basic arithmetic operations.
 
 Directions
 1. Run the server file on eustis3.eecs.ucf.edu, ‘python server.py’.
